@@ -19,7 +19,7 @@ Script_AdpC.m
 
 ![](https://github.com/sandeshthapa/Cartesian_Impedance_Control_Aerial_Manipulator/blob/master/CompA.PNG)
 
-![](https://github.com/sandeshthapa/Cartesian_Impedance_Control_Aerial_Manipulator/blob/master/CompB.PNG)
+![](https://github.com/sandeshthapa/Cartesian_Impedance_Control_Aerial_Manipulator/blob/master/ComB.PNG)
 
-![](https://github.com/sandeshthapa/Cartesian_Impedance_Control_Aerial_Manipulator/blob/master/CompRG.PNG)
+![](https://github.com/sandeshthapa/Cartesian_Impedance_Control_Aerial_Manipulator/blob/master/ComRG.PNG)
 
