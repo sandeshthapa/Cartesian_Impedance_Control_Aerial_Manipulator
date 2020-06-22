@@ -15,6 +15,7 @@ Script_AdpC.m
 ## Aerial Manipulator 
 ![](https://github.com/sandeshthapa/Adaptive_Sliding_Mode_Control_of_Aerial_Manipulator/blob/master/uav_arm.jpg)
 
-## Resutls 
+## Results 
+
 
 
