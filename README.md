@@ -1,4 +1,4 @@
-# Cartesian_Impedance_Control_Aerial_Manipulator
+# Cartesian Impedance Control of Aerial_Manipulator
 
 This paper derives a full dynamic model of UAV with a robotic arm and implements the following controlller: 
 1. V. Lippiello and F. Ruggiero, Cartesian impedance control of a UAV with a robotic arm, in 10th International
@@ -23,3 +23,5 @@ Script_AdpC.m
 
 ![](https://github.com/sandeshthapa/Cartesian_Impedance_Control_Aerial_Manipulator/blob/master/ComRG.PNG)
 
+## Contact 
+thapasandesh1@gmail.com
